@@ -1,6 +1,6 @@
 #!/bin/bash
 
-JAVA_HOME=/home1/irteam/app/jdk/jdk6
+#JAVA_HOME=/home1/irteam/app/jdk/jdk6
 
 . ./autogen.sh
 
